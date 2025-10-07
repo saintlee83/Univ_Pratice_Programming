@@ -123,7 +123,7 @@ def show_usage():
   print("  python calc.py + 3 5")
   print("  python calc.py - 10 4")
   print("  python calc.py '*' 2 6    # Note: quotes needed for * operator")
-  print("  python calc.py / 15 3")
+  print("  python calc.y / 15 3")
   print("")
   print("Supported operators: +, -, *, /")
   print("")
